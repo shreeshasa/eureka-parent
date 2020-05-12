@@ -8,7 +8,7 @@
   </parent>
   <groupId>io.github.shreeshasa</groupId>
   <artifactId>eureka-parent</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <packaging>pom</packaging>
   <name>Eureka (for BDD Automation) Parent POM</name>
   <description>Eureka (for BDD Automation) Parent POM</description>
@@ -34,7 +34,7 @@
     <url>https://github.com/shreeshasa/eureka-parent.git</url>
     <connection>scm:git:https://github.com/shreeshasa/eureka-parent.git</connection>
     <developerConnection>scm:git:https://github.com/shreeshasa/eureka-parent.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>1.0.1</tag>
   </scm>
   <distributionManagement>
     <snapshotRepository>
